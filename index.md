@@ -4,12 +4,17 @@ This is my CV website. I write down my performance here and the results of both 
 
 ### Personal Information
 
-- Name        : Erwin Yonata                    - Skill       : Web Developer, Android Developer, Kubernetes Engine, Machine Learninga and Google Cloud 
-- Age         : 17th                            - Personality : ESTP
+- Name        : Erwin Yonata                    
+- Age         : 17th                            
 - Address     : Jl. Kelantan No.23             
 - Email       : erwinwingyonata@gmail.com
 - Telp        : 088996507760
 - Origin      : Indonesia
+- Skill       : Web Developer, Android Developer, Kubernetes Engine, Machine Learninga and Google Cloud 
+- Personality : ESTP
+
+### Certification
+![Engineering with Google Cloud - Coursera](GCP.JPG)
 
 ### Projects
 
@@ -17,26 +22,49 @@ This is my CV website. I write down my performance here and the results of both 
 
 This is an android and web application that I made to help friends in their daily assignments at school. Like the task boards that are written every day to remind friends about the task only through their mobile screens.
 
+ANDROID
+
+
 ![Splash Screen](tgsk1.jpg)
 ![Dashboard Screen](tgsk2.jpg)
 ![Tugas Screen](tgsk3.jpg)
 ![CBTL Screen](tgsk4.jpg)
 
 
-```markdown
-Syntax highlighted code block
+WEB
 
-# Header 1
-## Header 2
-### Header 3
+![Login/Signup Screen](tugaskita.epizy.com1.jpg)
+![Dashboard Screen](tugaskita.epizy.com2.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### _Task_
 
-[Link](url) and ![Image](src)
-```
+This application is writing todo list every day. Based on Android written in Kotlin.
+
+ANDROID
+
+
+![Splash Screen](task1.jpg)
+![Dashboard Screen](task2.jpg)
+
+
+### _Ominel_
+
+This is a web browser application. Ominel is a combination of 4 search engines, Google, Bing, Yahoo, and DuckDuckGo.Written in the Kotlin programming language.
+
+ANDROID
+
+
+![Google Screen](ominel1.jpg)
+![DuckDuckGo Screen](ominel2.jpg)
+![Bing Screen](ominel3.jpg)
+![Yahoo Screen](ominel4.jpg)
+
+
+
+
+
+Thank for reading.
+Bye.
+
