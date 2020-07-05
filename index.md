@@ -13,7 +13,7 @@ This is my CV website. I write down my performance here and the results of both 
 - Skill       : Web Developer, Android Developer, Kubernetes Engine, Machine Learninga and Google Cloud 
 - Personality : ESTP
 
-My cv [download here](https://google.com) .pdf format
+My cv [download here](https://github.com/erwinyo/cv/blob/master/CV.pdf) .pdf format
 
 ### Certification
 ![Engineering with Google Cloud - Coursera](GCP.JPG)
