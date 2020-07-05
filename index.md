@@ -17,6 +17,11 @@ This is my CV website. I write down my performance here and the results of both 
 
 This is an android and web application that I made to help friends in their daily assignments at school. Like the task boards that are written every day to remind friends about the task only through their mobile screens.
 
+![Splash Screen](tgsk1.jpg)
+![Dashboard Screen](tgsk2.jpg)
+![Tugas Screen](tgsk3.jpg)
+![CBTL Screen](tgsk4.jpg)
+
 
 ```markdown
 Syntax highlighted code block
