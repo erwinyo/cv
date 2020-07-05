@@ -4,12 +4,19 @@ This is my CV website. I write down my performance here and the results of both 
 
 ### Personal Information
 
-- Name        : Erwin Yonata
-- Age         : 17th
-- Address     : Jl. Kelantan No.23
+- Name        : Erwin Yonata                    - Skill       : Web Developer, Android Developer, Kubernetes Engine, Machine Learninga and Google Cloud 
+- Age         : 17th                            - Personality : ESTP
+- Address     : Jl. Kelantan No.23             
 - Email       : erwinwingyonata@gmail.com
 - Telp        : 088996507760
 - Origin      : Indonesia
+
+### Projects
+
+### _TugasKita_
+
+This is an android and web application that I made to help friends in their daily assignments at school. Like the task boards that are written every day to remind friends about the task only through their mobile screens.
+
 
 ```markdown
 Syntax highlighted code block
